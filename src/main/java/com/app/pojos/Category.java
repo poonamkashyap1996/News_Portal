@@ -1,0 +1,6 @@
+package com.app.pojos;
+
+public enum Category {
+	POLITICS,ENTERTAINMENT,EDUCATION,SPORTS,HEALTH,INDUSTRY,ECONOMY
+
+}
